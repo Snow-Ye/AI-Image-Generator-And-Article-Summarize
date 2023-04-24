@@ -1,4 +1,4 @@
-<h1>Full-Stack AI Image Generation App</h1>
+<h1>Full-Stack AI Image Generation & Article Summarization App</h1>
 
 <a href="https://visualyestudio.com/">https://visualyestudio.com/</a>
 <br></br>
