@@ -29,6 +29,7 @@
 
 •Cloudinary for image storage
 
+<h2>New Feature: Summarize Article with AI. Apr.22.2024</h2>
+•In addition to generating visually stunning images, this full-stack AI web application now has a new page: Article Summarization using AI. With this feature, users can input a lengthy article and receive a summarized version, making it easier to quickly grasp the main ideas and key points.
 
-<h1>Apr.22.2024</h1>
-<div> Now it integrates another project Summarize Article into this project
+The article summarization feature is built using React and Tailwind CSS, providing a clean and intuitive user interface. Users can simply input the article URL or copy and paste the text into the input field, and the AI will generate a concise summary.
